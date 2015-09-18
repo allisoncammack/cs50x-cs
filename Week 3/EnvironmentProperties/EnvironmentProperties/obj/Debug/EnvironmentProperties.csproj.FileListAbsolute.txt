@@ -1,0 +1,6 @@
+C:\Users\Allison\Documents\GitHub\Week 3\EnvironmentProperties\EnvironmentProperties\bin\Debug\EnvironmentProperties.exe.config
+C:\Users\Allison\Documents\GitHub\Week 3\EnvironmentProperties\EnvironmentProperties\bin\Debug\EnvironmentProperties.exe
+C:\Users\Allison\Documents\GitHub\Week 3\EnvironmentProperties\EnvironmentProperties\bin\Debug\EnvironmentProperties.pdb
+C:\Users\Allison\Documents\GitHub\Week 3\EnvironmentProperties\EnvironmentProperties\obj\Debug\EnvironmentProperties.csprojResolveAssemblyReference.cache
+C:\Users\Allison\Documents\GitHub\Week 3\EnvironmentProperties\EnvironmentProperties\obj\Debug\EnvironmentProperties.exe
+C:\Users\Allison\Documents\GitHub\Week 3\EnvironmentProperties\EnvironmentProperties\obj\Debug\EnvironmentProperties.pdb
